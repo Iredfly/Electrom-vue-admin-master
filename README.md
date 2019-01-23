@@ -10,5 +10,7 @@ install electron:   npm install -g electron
 install electron  cli  : npm install -g electron-forge
 
 use
-    electron-forge package 
-    electron-forge make
+    ```
+        electron-forge package 
+        electron-forge make
+    ```
