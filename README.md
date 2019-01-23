@@ -1,9 +1,9 @@
-##use demo
+## use demo
 
 1.download or clone   
 2.npm install && npm start
 
-##pack
+## pack
 
 install electron:   npm install -g electron
 
